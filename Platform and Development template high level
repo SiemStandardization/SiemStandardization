@@ -1,0 +1,20 @@
+Template: Platform and Architectural design of SIEM
+
+Purpose: This page describes high level of architecture of SIEM design which contains organizational structure and SIEM component deployment.
+
+Index:
+
+1: Requirements
+2: High Level Design
+3: System Sizing
+4: Server deployment design and guidelines
+5: Syslog implementation design
+6: Log file Transfer
+7: Firewall rules
+8: Event Normalization
+9: Use case development and it's categorization
+10: Mitre Attack framwork alignment with use case development.
+...
+
+Systems and Servers:
+1: System and IP plan, and How to create and update IP Plan and hosts associated with it.
